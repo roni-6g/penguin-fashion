@@ -95,3 +95,28 @@ body {
 .fb-light-box img {
     width: 100%;
 }
+
+.footer-area h2 {
+    font-size: 36px;
+}
+
+.client-reviews {
+    text-align: center;
+    width: 40%;
+    margin: auto;
+}
+
+.client-reviews img {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    margin-bottom: 20px;
+}
+
+.client-reviews p {
+    font-style: italic;
+}
+
+.client-highlight-text {
+    color: rgb(240, 200, 25);
+}
