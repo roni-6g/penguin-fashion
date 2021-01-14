@@ -1,3 +1,97 @@
 body {
     margin: 0;
+
+}
+
+.header-area {
+    background-color: #FFFBF0;
+}
+
+.penguin-logo img {
+    width: 300px;
+}
+
+.penguin-navbar ul li {
+    margin: 0 18px;
+}
+
+.penguin-navbar ul li a {
+    color: #454863!important;
+    font-weight: 600;
+}
+
+.header-bottom-content h1 {
+    font-family: 'Oswald', sans-serif;
+    color: #FABE4C;
+
+}
+
+.highlight-text {
+    color: #363958;
+}
+
+.high-light2 {
+    color: #363958;
+    font-size: 30px;
+    font-weight: 600;
+
+}
+
+.header-bottom-content button {
+    font-size: 18px;
+}
+
+.header-bottom-content h1 {
+    font-size: 50px;
+}
+
+.main-area {
+    background-color: #F7F7F7;
+}
+
+.women-gallery {
+    border: 0;
+    border: 10px solid #fff;
+    background-color:#fff;
+    border-radius: 20px;
+}
+
+.women-gallery img {
+    width: 250px;
+    height: 300px;
+}
+
+.women-product-img {
+    background-color: #F7F7F7;
+    border-radius: 10px;    
+    border-radius: 20px;
+
+}
+
+.contact-area {
+    padding: 100px 0;
+}
+
+.icon-box {
+    border-radius: 20px;
+    margin-bottom: 20px;
+}
+
+.icon img {
+    width: 50px;
+}
+
+.icon-text h4 {
+    text-transform: capitalize;
+    font-size: 18px;
+    font-weight: 700;
+    color: #363958;
+}
+
+.icon-text p {
+    font-size: 15px;
+}
+
+.fb-light-box img {
+    width: 100%;
 }
